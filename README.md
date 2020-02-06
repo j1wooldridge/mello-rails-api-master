@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a fullstack version of the Mello app which is a clone of Trello.
 
-Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
+<img src="app/images/mello.png" width="400" height="280"> 
 
-* Configuration
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+Link to: >> https://mello-rails-jw.herokuapp.com/
 
-* Deployment instructions
-
-* ...
