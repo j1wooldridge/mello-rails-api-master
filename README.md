@@ -2,13 +2,6 @@
 
 
 
-
-![Log In / Sign Up](app/images/Mello-App-Logon.png "Screenshot1")
-
-
-
-
-
 ![App Screenshot](app/images/Mello-App-Screenshot.png "Screenshot2") 
 
 
