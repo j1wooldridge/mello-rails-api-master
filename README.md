@@ -2,13 +2,13 @@
 
 
 
-![Log In / Sign Up Screen](app/images/Mello-App-Logon.png "Log In / Sign Up screenshot")
+![Log In / Sign Up](app/images/Mello-App-Logon.png "Screenshot1")
 
 
 
 
 
-![App Screenshot](app/images/Mello-App-Screenshot.png "Screenshot") 
+![App Screenshot](app/images/Mello-App-Screenshot.png "Screenshot2") 
 
 
 
